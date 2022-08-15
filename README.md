@@ -1,2 +1,1 @@
 # DAOMulti-signatureCommittee
-ink! Version
